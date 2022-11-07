@@ -3,10 +3,10 @@ Food supply chain Monitoring on a blockchain network
 
 # Prerequisites :
 
-1.Clone the Entire Repo.
-2.If working with windows install WSL and start working in virtual linux environment.
-3.Install Nodejs and golang and npm(latest versions).
-4.Install docker and docker compose.
+1. Clone the Entire Repo.
+2. If working with windows install WSL and start working in virtual linux environment.
+3. Install Nodejs and golang and npm(latest versions).
+4. Install docker and docker compose.
 
 # Step 1:
 SetUp Block-chain network
